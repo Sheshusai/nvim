@@ -1,4 +1,4 @@
-============== Vim Basics ==============================
+### Vim Basics
 
 why use vim?
 most common editor, most available editor
@@ -25,14 +25,13 @@ B = Backward to the beginning of the WORD
 e = forward to the end of the word 
 E = forward to the end of the WORD
 
-============ Visual Modes ==============================
+### Visual Modes
+
 v => visual mode
 V => visual line mode
 ctrl+v => visual block mode
 
-
-write some thing here{this is some text}
-============ Vim Motions ===============================
+### Vim Motions
 
 diw = delete word under cursor
 yiw = yank word under cursor
@@ -47,7 +46,7 @@ v^ = selects from cursor to beginning of line
 yy = yanks the line under cursor
 
 
-============= Find And Replace ==========================
+#### Find And Replace
 
 searching in VIM
 built into vim are several ways to search for text, all must be accessed from normal mode.
