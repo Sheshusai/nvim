@@ -44,6 +44,10 @@ v$ = selects from cursor to end of line
 y^ = yanks from cursor to beginning of line  
 v^ = selects from cursor to beginning of line  
 yy = yanks the line under cursor  
+ysiw' = surround the word with '  
+ds' = drop surrond word with '  
+cs'" = change surrond from ' to "  
+cst<em> = change surround from current tag to <em> // in html  
 
 
 #### Find And Replace
